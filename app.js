@@ -21,7 +21,6 @@ function changeWeather(event) {
     event.preventDefault()
 }
 
-
 // get city weather
 function getWeather(){
     weather.getWeather()
